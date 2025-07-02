@@ -47,15 +47,19 @@ Technologies I've been learning and using so far:
   ![Static Badge](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=black)
     [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://dinhanhthi.com/visual-studio-code)
 
-- APIs : <br />
+- Other tools : <br />
 
   ![Static Badge](https://img.shields.io/badge/Obsidian-white?logo=obsidian&logoColor=black)
   [![Notion API](https://img.shields.io/badge/-Notion%20API-eee?style=flat-square&logo=notion&logoColor=000000)](https://dinhanhthi.com/notes/#api-&-services)
-
-
-
-
-
+  ![Static Badge](https://img.shields.io/badge/Roundcube-white?logo=roundcube&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/LibreOffice-white?logo=libreoffice&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/TrueNAS-white?logo=truenas&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/%20-white?logo=thinkpad&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/Apache%20Netbeans-white?logo=apachenetbeanside&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/Linux%20Debian-white?logo=debian&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/LaTeX-white?logo=latex&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=black)
+  
 <p align="center">
   <br/>
   <a href="https://github.com/gioh-mkv/github-readme-stats"><img alt="gioh-mkv's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=gioh-mkv&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
