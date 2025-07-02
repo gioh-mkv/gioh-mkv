@@ -53,7 +53,6 @@ Technologies I've been learning and using so far:
   [![Notion API](https://img.shields.io/badge/-Notion%20API-eee?style=flat-square&logo=notion&logoColor=000000)](https://dinhanhthi.com/notes/#api-&-services)
 
 
-More about me and my notes 👉 [dinhanhthi.com](https://dinhanhthi.com).
 
 
 
