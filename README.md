@@ -1,9 +1,5 @@
 ## Hi there, I'm Giovanna - Data Scientist 👋
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/giovanna-freitas-n%C3%B3brega-706b31298/)
-[![My Notes](https://img.shields.io/badge/-My%20Page-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://gioh-mkv.github.io/)
-](https://ko-fi.com/dinhanhthi)
-
 I am a Brazilian student in progress. I am an independent **cybersecurity** student and I am graduating in **Data Science** from the Federal University of Ceará.
 
 - 🌱 I am currently participating in the ICT Residency Program - Capacita Jovem at the State University of Ceará; Cyber ​​Academy at Febraban; CIEE + Google Courses
