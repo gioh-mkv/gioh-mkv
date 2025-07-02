@@ -1,10 +1,62 @@
-## Hi there 👋
+## Hi there, I'm Giovanna - Data Scientist 👋
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/giovanna-freitas-n%C3%B3brega-706b31298/)
+[![My Notes](https://img.shields.io/badge/-My%20Page-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://gioh-mkv.github.io/)
+](https://ko-fi.com/dinhanhthi)
+
+I am a Brazilian student in progress. I am an independent **cybersecurity** student and I am graduating in **Data Science** from the Federal University of Ceará.
+
+- 🌱 I am currently participating in the ICT Residency Program - Capacita Jovem at the State University of Ceará; Cyber ​​Academy at Febraban; CIEE + Google Courses
+- 💌 Contact me on my [email](mailto:giovannafnobrega@gmail.com)
+
+Technologies I've been learning and using so far:
+
+- Programming languages : <br />
+
+  ![Static Badge](https://img.shields.io/badge/Python-white?logo=python&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/R-white?logo=r&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/Java-white?logo=java&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/C%2B%2B-white?logo=c%2B%2B&logoColor=black)
+  
+- Machine Learning / Deep Learning frameworks : <br />
+
+  ![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook-white?logo=jupyter&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/OpenAI-white?logo=openai&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/Numpy-white?logo=numpy&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/Scikit--Learn-white?logo=scikit-learn&logoColor=black)
+
+- Frontend : <br />
+
+  ![Static Badge](https://img.shields.io/badge/HTML-white?logo=html5&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/CSS-white?logo=css&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/Wordpress-white?logo=wordpress&logoColor=black)
+
+- Backend : <br />
+
+  ![Static Badge](https://img.shields.io/badge/Airflow-white?logo=apache%20airflow&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/Docker-white?logo=docker&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/MongoDB-white?logo=mongodb&logoColor=black)
+
+    
+- OS & IDE & Tools : <br />
+
+  ![Static Badge](https://img.shields.io/badge/Git-white?logo=git&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=black)
+    [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://dinhanhthi.com/visual-studio-code)
+
+- APIs : <br />
+
+  ![Static Badge](https://img.shields.io/badge/Obsidian-white?logo=obsidian&logoColor=black)
+  [![Notion API](https://img.shields.io/badge/-Notion%20API-eee?style=flat-square&logo=notion&logoColor=000000)](https://dinhanhthi.com/notes/#api-&-services)
+
+
+More about me and my notes 👉 [dinhanhthi.com](https://dinhanhthi.com).
 
 
 
-
-
-<!--
 <p align="center">
   <br/>
   <a href="https://github.com/gioh-mkv/github-readme-stats"><img alt="gioh-mkv's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=gioh-mkv&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
@@ -14,6 +66,7 @@
 </p>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
+<!--
 
 **gioh-mkv/gioh-mkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
