@@ -55,7 +55,10 @@ Technologies I've been learning and using so far:
   ![Static Badge](https://img.shields.io/badge/Linux%20Debian-white?logo=debian&logoColor=black)
   ![Static Badge](https://img.shields.io/badge/LaTeX-white?logo=latex&logoColor=black)
   ![Static Badge](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=black)
-  
+
+
+<!--
+
 <p align="center">
   <br/>
   <a href="https://github.com/gioh-mkv/github-readme-stats"><img alt="gioh-mkv's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=gioh-mkv&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
@@ -65,7 +68,7 @@ Technologies I've been learning and using so far:
 </p>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-<!--
+
 
 **gioh-mkv/gioh-mkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
