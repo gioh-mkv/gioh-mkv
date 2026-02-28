@@ -2,6 +2,8 @@
 
 I am a Brazilian student in progress. I am an independent **cybersecurity** student and I am graduating in **Data Science** from the Federal University of Ceará.
 
+<!--
+
 - 🌱 I am currently participating in the ICT Residency Program - Capacita Jovem at the State University of Ceará; Cyber ​​Academy at Febraban; CIEE + Google Courses
 - 💌 Contact me on my [email](mailto:giovannafnobrega@gmail.com)
 
@@ -57,7 +59,7 @@ Technologies I've been learning and using so far:
   ![Static Badge](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=black)
 
 
-<!--
+
 
 <p align="center">
   <br/>
