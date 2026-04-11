@@ -1,8 +1,9 @@
-## Hi there, I'm Giovanna - Data Scientist 👋
+# Hello.
+<!--## Hi there, I'm Giovanna - Data Scientist 👋
 
 I am a Brazilian student in progress. I am an independent **cybersecurity** student and I am graduating in **Data Science** from the Federal University of Ceará.
 
-<!--
+
 
 - 🌱 I am currently participating in the ICT Residency Program - Capacita Jovem at the State University of Ceará; Cyber ​​Academy at Febraban; CIEE + Google Courses
 - 💌 Contact me on my [email](mailto:giovannafnobrega@gmail.com)
