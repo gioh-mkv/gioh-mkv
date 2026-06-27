@@ -47,10 +47,11 @@
 
 ### `> git log --oneline --graph /projects`
 
-[![SentimentIQ](https://github-readme-stats.vercel.app/api/pin/?username=gioh-mkv&repo=sentimentiq&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41)](https://github.com/gioh-mkv)
+[![SentimentIQ](https://github-readme-stats.vercel.app/api/pin/?username=gioh-mkv&repo=sentimentiq&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41)](https://github.com/gioh-mkv/SentimentIQ)
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=gioh-mkv&repo=gioh-mkv.github.io&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41)](https://github.com/gioh-mkv)
+[![ClosetFlow](https://github-readme-stats.vercel.app/api/pin/?username=gioh-mkv&repo=gioh-mkv.github.io&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41)]([https://github.com/gioh-mkv](https://github.com/gioh-mkv/ClosetFlow))
 
+[![New-Vault](https://github-readme-stats.vercel.app/api/pin/?username=gioh-mkv&repo=sentimentiq&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41)](https://github.com/gioh-mkv/new-vault)
 
 </td>
 </tr>
