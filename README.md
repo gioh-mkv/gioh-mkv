@@ -5,44 +5,13 @@
 ║                                                              ║
 ║   ░██████╗░██╗░█████╗░██╗░░██╗░░░  root@gioh-mkv             ║
 ║   ██╔════╝░██║██╔══██╗██║░░██║░░░  ─────────────────────     ║
-║   ██║░░██╗░██║██║░░██║███████║░░░  OS     : Fedora Linux     ║
+║   ██║░░██╗░██║██║░░██║███████║░░░  OS     : Linux            ║
 ║   ██║░░╚██╗██║██║░░██║██╔══██║░░░  HOST   : ThinkPad         ║
 ║   ╚██████╔╝██║╚█████╔╝██║░░██║░░░  SHELL  : bash             ║
-║   ░╚═════╝░╚═╝░╚════╝░╚═╝░░╚═╝░░░  FOCUS  : data + security  ║
+║   ░╚═════╝░╚═╝░╚════╝░╚═╝░░╚═╝░░░  FOCUS  : data             ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
-</div>
-
----
-
-<div align="center">
-
-### `> whoami`
-
-</div>
-
----
-
-<div align="center">
-
-### `> ls -la /interests`
-
-</div>
-
-<div align="center">
-
-| 🧠 IA & ML | 🔐 Cibersegurança | 🐧 Linux |
-|:---:|:---:|:---:|
-| Redes Neurais | Segurança Ofensiva | Fedora / Distro Hopping |
-| Modelos Probabilísticos | Criptografia | Shell Scripting |
-| Data Science | Análise de Vulnerabilidades | ThinkPad Gang |
-
-</div>
-
----
-
 <div align="center">
 
 ### `> cat stack.conf`
@@ -122,8 +91,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=00ff41)](https://gioh-mkv.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/giovanna-de-freitas-nóbrega-706b31298)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=00ff41)](https://gioh-mkv.github.io) 
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:)
 
 </div>
