@@ -3,8 +3,8 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   ░██████╗░██╗░█████╗░██╗░░██╗░░░  root@gioh-mkv            ║
-║   ██╔════╝░██║██╔══██╗██║░░██║░░░  ─────────────────────    ║
+║   ░██████╗░██╗░█████╗░██╗░░██╗░░░  root@gioh-mkv             ║
+║   ██╔════╝░██║██╔══██╗██║░░██║░░░  ─────────────────────     ║
 ║   ██║░░██╗░██║██║░░██║███████║░░░  OS     : Fedora Linux     ║
 ║   ██║░░╚██╗██║██║░░██║██╔══██║░░░  HOST   : ThinkPad         ║
 ║   ╚██████╔╝██║╚█████╔╝██║░░██║░░░  SHELL  : bash             ║
@@ -22,20 +22,6 @@
 ### `> whoami`
 
 </div>
-
-```bash
-$ cat about.txt
-
-  Estudante de Ciência de Dados @ UFC
-  Explorando as fronteiras entre IA, redes neurais e cibersegurança.
-  Apaixonada por Linux, ThinkPads e pela filosofia do open source.
-  
-  Quando não estou debugando às 2h da manhã, estou lendo sobre
-  análise técnica nos mercados financeiros ou me perdendo em
-  light novels.
-  
-  Estado atual: compilando conhecimento. Sem erros... por enquanto.
-```
 
 ---
 
