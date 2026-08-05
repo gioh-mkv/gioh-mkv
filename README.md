@@ -60,28 +60,6 @@
 
 <div align="center">
 
-### `> neofetch --stats`
-
-</div>
-
-<div align="center">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=gioh-mkv&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&hide_border=false&count_private=true"/>
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioh-mkv&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&hide_border=false&langs_count=6"/>
-
-</div>
-
-<div align="center">
-
-![Snake](https://raw.githubusercontent.com/gioh-mkv/gioh-mkv/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
 ### `> finger gioh-mkv`
 
 </div>
